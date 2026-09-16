@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=BD93F9&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Pritam;BCA+Student+%26+Developer+from+India;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Always+learning%2C+always+building" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=BD93F9&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Pritam;BCA+Student+%26+Full-Stack+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Always+learning%2C+always+building" alt="Typing intro" />
 
 <p data-importer="text" align="center">
-  <b>22 · BCA Student · Full-Stack Developer · India 🇮🇳</b>
+  <b>22 · BCA Student · Full-Stack Developer</b>
 </p>
 
-<a href="https://discord.gg/codexdev">
+<a href="https://discord.com/users/1067254687700615179">
   <img src="https://img.shields.io/badge/Discord-raxxy.lyy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://github.com/Aelshi-nui">
@@ -28,7 +28,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p data-importer="text" align="left">
-I'm Pritam — a 22-year-old BCA student and developer from India. I build modern web applications,
+I'm Pritam — a 22-year-old BCA student and developer. I build modern web applications,
 chase down new technologies, and turn half-formed ideas into things that actually run in production.
 </p>
 
@@ -169,7 +169,7 @@ chase down new technologies, and turn half-formed ideas into things that actuall
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div data-importer="socials" align="center">
-  <a href="https://discord.gg/codexdev" target="_blank">
+  <a href="https://discord.com/users/1067254687700615179" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo" />
   </a>
   <a href="https://open.spotify.com/user/31u47mnnitzdcon37cql6w2zheja" target="_blank">
